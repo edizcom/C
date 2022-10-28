@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1642702202 source:c:\users\edizc\desktop\projeler\wwm\whowants\main.c
+	<stdio.h>
+	<conio.h>
+	<ctype.h>
+	<stdlib.h>
+	<string.h>
+	<locale.h>
+
